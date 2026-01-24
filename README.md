@@ -1,0 +1,1 @@
+repo for learning PyTorch with [official tutorials](https://docs.pytorch.org/tutorials/beginner/basics/intro.html)
